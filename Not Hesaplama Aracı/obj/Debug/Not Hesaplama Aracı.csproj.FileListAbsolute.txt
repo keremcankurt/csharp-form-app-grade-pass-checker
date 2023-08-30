@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Not Hesaplama Aracı\Not Hesaplama Aracı\bin\Debug\Not Hesaplama Aracı.exe.config
+C:\Users\user\source\repos\Not Hesaplama Aracı\Not Hesaplama Aracı\bin\Debug\Not Hesaplama Aracı.exe
+C:\Users\user\source\repos\Not Hesaplama Aracı\Not Hesaplama Aracı\bin\Debug\Not Hesaplama Aracı.pdb
+C:\Users\user\source\repos\Not Hesaplama Aracı\Not Hesaplama Aracı\obj\Debug\Not Hesaplama Aracı.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Not Hesaplama Aracı\Not Hesaplama Aracı\obj\Debug\Not Hesaplama Aracı.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Not Hesaplama Aracı\Not Hesaplama Aracı\obj\Debug\Not_Hesaplama_Aracı.Form1.resources
+C:\Users\user\source\repos\Not Hesaplama Aracı\Not Hesaplama Aracı\obj\Debug\Not_Hesaplama_Aracı.Properties.Resources.resources
+C:\Users\user\source\repos\Not Hesaplama Aracı\Not Hesaplama Aracı\obj\Debug\Not Hesaplama Aracı.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Not Hesaplama Aracı\Not Hesaplama Aracı\obj\Debug\Not Hesaplama Aracı.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Not Hesaplama Aracı\Not Hesaplama Aracı\obj\Debug\Not Hesaplama Aracı.exe
+C:\Users\user\source\repos\Not Hesaplama Aracı\Not Hesaplama Aracı\obj\Debug\Not Hesaplama Aracı.pdb
